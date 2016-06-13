@@ -1,5 +1,5 @@
-# mirrg.template
+﻿# マルチプロトコルゲートウェイ Sulfur
 
-- Repo: `https://raw.githubusercontent.com/MirrgieRiana/mirrg.template/master/maven`
+- Repo: `https://raw.githubusercontent.com/MirrgieRiana/mirrg.mpg.sulfur/master/maven`
 - Artifacts
-  - `mirrg:mirrg.template:+`
+  - `mirrg:mirrg.mpg.sulfur:+`
